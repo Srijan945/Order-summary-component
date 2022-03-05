@@ -3,7 +3,7 @@ import Card from "./Card";
 import Footer from './Footer';
 function App() {
 	return ( 
-		<div className="app">
+		<div>
 			<Card />
 			<Footer />
 		</div>

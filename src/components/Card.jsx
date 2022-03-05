@@ -8,9 +8,11 @@ function Card(){
     return(
         <div className="card">
 				<CardImage />
-				<Heading />
-				<Plan />
-				<CardFooter />
+				<div className="card__section">
+					<Heading />
+					<Plan />
+					<CardFooter />
+				</div>	
 		</div>
     );
 }

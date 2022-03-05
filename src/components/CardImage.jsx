@@ -2,7 +2,10 @@ import React from "react";
 
 function CardImage(){
     return (
-        <img className="cardImage" src={"images/illustration-hero.svg"} alt="music-hero"></img>
+        <div className="cardImage">
+            <img className="cardImage__img" src={"images/illustration-hero.svg"} alt="music-hero"/>
+        </div>
+        
     );
 }
 
