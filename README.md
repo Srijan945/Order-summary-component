@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Live Site URL: [URL](https://srijan945.github.io/Order-summary-component/)
 
 ## Built with
 
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Name - [Srijan Saini](https://www.your-site.com)
+- Name - [Srijan Saini](#)
 
